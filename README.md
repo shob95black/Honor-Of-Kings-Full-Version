@@ -266,3 +266,6 @@ This repository serves as the official landing page for Honor of Kings. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Honor of Kings today!**
+
+---
+**Last updated:** 2026-09-11 10:17:09 UTC

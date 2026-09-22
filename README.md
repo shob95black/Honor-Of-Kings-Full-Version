@@ -268,4 +268,4 @@ This repository serves as the official landing page for Honor of Kings. The soft
 **Get the most recent version of Honor of Kings today!**
 
 ---
-**Last updated:** 2026-09-21 21:27:09 UTC
+**Last updated:** 2026-09-22 00:25:14 UTC
